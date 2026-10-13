@@ -72,28 +72,53 @@ Die ausführliche [Projekt-Checkliste](checkliste.md) kannst du für jeden Anbie
 
 Hostinger ist ein möglicher Anbieter für die oben beschriebenen Anwendungsfälle. Prüfe den konkreten Tarif direkt beim Anbieter; Produktumfang und Bedingungen können sich ändern. Dieses Projekt ist unabhängig und kein offizielles Hostinger-Angebot.
 
-**Werbung / wirtschaftlicher Hinweis:** 365Rabattcode betreibt eine Gutscheinwebsite. Die folgende externe Übersicht enthält Affiliate-Links. Bei einem darüber vermittelten, qualifizierten Kauf kann 365Rabattcode eine Provision erhalten. Ein Rabatt oder eine erfolgreiche Provisionszuordnung wird hier nicht zugesichert.
+## Hostinger-Links nach Projektbedarf
 
-[![Webhosting über 365Rabattcode ansehen — Werbung / Affiliate-Link](angebote-button.svg)](https://365rabattcode.de/?cout=57445)
+**Werbung / Affiliate-Links:** Diese sieben Links wurden aus der Hostinger-Storeseite von 365Rabattcode übernommen. Sie verwenden die dort hinterlegten Weiterleitungen über 365rabattcode.de. Bei einem qualifizierten Kauf kann 365Rabattcode eine Provision erhalten. Rabattwirkung, aktuelle Gültigkeit und Provisionszuordnung wurden nicht durch einen Testkauf überprüft. Es wird kein bestimmter Rabatt zugesichert.
 
-Der Button verwendet den auf unserer Website hinterlegten Webhosting-Affiliate-Link über 365rabattcode.de und kann zum Anbieter weiterleiten. Ein Besuch dieser GitHub-Seite allein löst keine Affiliate-Zuordnung aus. Dieses Repository enthält keine Tracking-Skripte, automatischen Weiterleitungen oder eingebetteten Werbenetzwerke.
+### Webhosting
 
-<details>
-<summary>Weitere Affiliate-Links nach Projektbedarf (Werbung)</summary>
+Für Blogs, Portfolios und Unternehmenswebsites. Prüfe Speicher, Datenbanken und Verlängerungskosten.
 
-Die folgenden Affiliate-Links wurden aus unserer Website übernommen. Sie laufen über 365rabattcode.de und können zum jeweiligen Anbieterangebot weiterleiten. Die Einträge wurden als Quellen zugeordnet; ihre Rabattwirkung und Gültigkeit wurden nicht durch einen Kauf geprüft. Es wird kein bestimmter Rabatt zugesichert.
+[![Webhosting ansehen — Werbung / Affiliate-Link](button-webhosting.svg)](https://365rabattcode.de/?cout=57445)
 
-| Projektbedarf | Eintrag auf unserer Website |
-|---|---|
-| Klassische Website | [Webhosting ansehen](https://365rabattcode.de/?cout=57445) |
-| Eigene Serverkonfiguration | [VPS ansehen](https://365rabattcode.de/?cout=57454) |
-| Kundenprojekte | [Agenturlösungen ansehen](https://365rabattcode.de/?cout=57450) |
-| Mehr Ressourcen | [Cloud-Hosting ansehen](https://365rabattcode.de/?cout=57451) |
-| Eigene Postfächer | [E-Mail-Lösungen ansehen](https://365rabattcode.de/?cout=57458) |
-| Newsletter | [Reach-Eintrag ansehen](https://365rabattcode.de/?cout=57460) |
-| Geschäftliche Postfächer | [Business-E-Mail ansehen](https://365rabattcode.de/?cout=57463) |
+### VPS-Hosting
 
-</details>
+Für Projekte mit eigener Serverkonfiguration. Plane Administration, Updates und Backups ein.
+
+[![VPS-Hosting ansehen — Werbung / Affiliate-Link](button-vps.svg)](https://365rabattcode.de/?cout=57454)
+
+### Agency-Hosting
+
+Für Agenturen und mehrere Kundenprojekte. Prüfe Zugriffstrennung, Übergabe und Ressourcenlimits.
+
+[![Agency-Hosting ansehen — Werbung / Affiliate-Link](button-agency.svg)](https://365rabattcode.de/?cout=57450)
+
+### Cloud-Hosting
+
+Für Projekte mit höherem Ressourcenbedarf. Vergleiche Leistung, Skalierung und Gesamtkosten.
+
+[![Cloud-Hosting ansehen — Werbung / Affiliate-Link](button-cloud.svg)](https://365rabattcode.de/?cout=57451)
+
+### E-Mail-Lösungen
+
+Für professionelle Postfächer mit eigener Domain. Prüfe Speicher, enthaltene Leistungen und Verlängerung.
+
+[![E-Mail-Lösungen ansehen — Werbung / Affiliate-Link](button-email.svg)](https://365rabattcode.de/?cout=57458)
+
+### Reach E-Mail-Marketing
+
+Für Newsletter und E-Mail-Kampagnen. Prüfe Kontaktlimits, Versandumfang und die benötigten Funktionen.
+
+[![Reach E-Mail-Marketing ansehen — Werbung / Affiliate-Link](button-reach.svg)](https://365rabattcode.de/?cout=57460)
+
+### Business Email
+
+Für geschäftliche E-Mail-Adressen. Vergleiche Postfachgrößen, Teamverwaltung und Abrechnung.
+
+[![Business Email ansehen — Werbung / Affiliate-Link](button-business-email.svg)](https://365rabattcode.de/?cout=57463)
+
+Alle Buttons führen über 365rabattcode.de und können zum Anbieter weiterleiten. Preis, Tarifumfang und Bedingungen des jeweiligen Angebots sind vor dem Kauf zu prüfen. Ein Besuch dieser GitHub-Seite allein löst keine Affiliate-Zuordnung aus.
 
 ## Quellen und Transparenz
 
