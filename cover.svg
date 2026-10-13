@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">365Rabattcode — Hosting verstehen. Gesamtkosten vergleichen.</title>
+<desc id="desc">Deutscher Hosting-Leitfaden und kostenloser Kostenrechner. Dunkelblaues Banner mit grünen Akzenten.</desc>
+<rect width="1280" height="360" rx="24" fill="#102522"/>
+<circle cx="1200" cy="30" r="245" fill="#173b32"/>
+<circle cx="1200" cy="30" r="176" fill="none" stroke="#386657" stroke-width="2"/>
+<rect x="60" y="49" width="8" height="32" rx="4" fill="#b9f17c"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="86" y="73" fill="#dce9e4" font-size="23" font-weight="700" letter-spacing="3">365RABATTCODE</text>
+<text x="60" y="155" fill="#fff" font-size="54" font-weight="700">Hosting verstehen.</text>
+<text x="60" y="217" fill="#b9f17c" font-size="54" font-weight="700">Gesamtkosten vergleichen.</text>
+<text x="60" y="281" fill="#c3d3cd" font-size="22">Leitfaden + Kostenrechner + Projekt-Checkliste</text>
+<text x="60" y="320" fill="#95afa5" font-size="16">DEUTSCH · ANBIETERNEUTRALER RECHNER · TRANSPARENTE ANNAHMEN</text>
+</g></svg>
