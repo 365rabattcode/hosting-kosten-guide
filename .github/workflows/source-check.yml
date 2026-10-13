@@ -1,0 +1,31 @@
+name: Quellenmonitor
+on:
+  schedule:
+    - cron: '23 6 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'quellenmonitor.py'
+      - 'source-baseline.json'
+      - '.github/workflows/source-check.yml'
+permissions:
+  contents: read
+concurrency:
+  group: quellenmonitor
+  cancel-in-progress: false
+jobs:
+  source-check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Quelle lesen und Bericht erstellen
+        run: python3 quellenmonitor.py
+      - name: Bericht speichern
+        uses: actions/upload-artifact@v4
+        with:
+          name: source-status
+          path: monitor-output/
+          retention-days: 30
